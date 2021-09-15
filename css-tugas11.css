@@ -1,0 +1,38 @@
+main {
+	background-color:#D5DBDB;
+	padding:0px 10px 10px 10px;
+}
+
+ul {
+	background-color:#5D6D7E;
+	padding-left:0px;
+}
+
+li {
+	display:inline-block;
+	padding:10px;
+}
+
+a {
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+}
+
+p {
+	text-align:justify;
+	column-count:4;
+	column-gap:20px;
+	column-fill:balance;
+	column-rule:5px double black;
+}
+
+.footer {
+	background-color:black;
+	padding-bottom:10px;
+}
+
+.footer h2 {
+	text-align:center;
+	color:white;
+}
